@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhinay (@Abhinay_1808)
 
-<!--
-**Abhi-abhi18/Abhi-abhi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Education:** Student at HITAM (Hyderabad Institute of Technology and Management)
+- 💻 **Focus:** Data Science & Computer Skills
+- 🌱 **Learning:** Continuously exploring and picking up new technical skills
+- ⚙️ **Core Interests:** Data Analysis, Machine Learning, and Problem Solving
+- 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:**
+  ![Python](https://shields.io)
+  ![Java](https://shields.io)
+  ![C](https://shields.io)
+
+- **Databases:**
+  ![MySQL](https://shields.io)
+
+- **Developer Tools:**
+  ![Git](https://shields.io)
+  ![GitHub](https://shields.io)
+
+---
+
+### 🔗 Connect With Me
+- 💼 **LinkedIn:** [Abhinay Thota](https://linkedin.com)
