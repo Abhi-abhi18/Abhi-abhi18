@@ -5,7 +5,6 @@
 - 💻 **Focus:** Data Science & Computer Skills
 - 🌱 **Learning:** Continuously exploring and picking up new technical skills
 - ⚙️ **Core Interests:** Data Analysis, Machine Learning, and Problem Solving
-- 
 
 ### 🛠️ Tech Stack & Tools
 
